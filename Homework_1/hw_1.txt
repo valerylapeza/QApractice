@@ -3,7 +3,7 @@ Linux terminal
 1) Посмотреть где я - pwd
 2) Создать папку - mkdir Folder
 3) Зайти в папку - cd Folder
-4) Создать 3 папки - mkdir Folder1, Folder2, Folder3
+4) Создать 3 папки - mkdir folder1 folder2 folder3
 5) Зайти в любую папку - cd foldername
 6) Создать 5 файлов (3 txt, 2 json) - touch Legolas.txt Gimli.txt Aragorn.txt Frodo.json Samwise.json
 7) Создать 3 папки - mkdir folder1 folder2 folder3
