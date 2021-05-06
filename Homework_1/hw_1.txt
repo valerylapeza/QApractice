@@ -26,6 +26,12 @@ Linux terminal
 
 Задание со *
 
+1) Отправить http запрос на сервер https://api.quarantine.country/api/v1/regions
+
+#! /bin/bash
+curl -G https://api.quarantine.country/api/v1/regions
+
+
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13.
 
 #! /bin/bash
